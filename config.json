@@ -1,0 +1,30 @@
+{
+    "servername": "localhost", 
+    "username": "root",
+    "password": "",
+    "database": "data",
+
+
+    "auth_url": "https://discord.com/oauth2/authorize?client_id=1087396409592000612&redirect_uri=http%3A%2F%2Flocalhost%2Fmystic-vouch%2Fprocess-oauth.php&response_type=code&scope=identify%20guilds%20guilds.members.read",
+
+
+    "bot_token": "MTA4NzM5NjQwOTU5MjAwMDYxMg.GqwHMC.IOPKuPRYwzMp2W3tVRb1PYbiz-nczBCwxgACHA",
+    "api_token": "42bd60d3-01b2-4c2a-b55b-9459b35dcc89",
+
+    "api_url": "https://formapi.pritish384.repl.co/api",
+
+
+    
+    "client_id": "1087396409592000612",
+    "client_secret": "1MGXlEIQ-eO8U2ZspF4pW3iRJap0RSye",
+    "grant_type": "authorization_code",
+    "redirect_uri": "http://localhost/mystic-vouch/process-oauth.php",
+    "scope": "identify%20guilds%20guilds.members.read",
+
+    "guild_id": "1074296554149654580",
+    "vouch_role": "1098306389237055579"
+
+
+
+
+}
